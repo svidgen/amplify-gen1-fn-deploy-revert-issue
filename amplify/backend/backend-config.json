@@ -16,5 +16,30 @@
       "providerPlugin": "awscloudformation",
       "service": "AppSync"
     }
+  },
+  "function": {
+    "amplifygen1cfnissues13d6750e": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  },
+  "parameters": {
+    "AMPLIFY_function_amplifygen1cfnissues13d6750e_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "amplifygen1cfnissues13d6750e"
+        }
+      ]
+    },
+    "AMPLIFY_function_amplifygen1cfnissues13d6750e_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "amplifygen1cfnissues13d6750e"
+        }
+      ]
+    }
   }
 }

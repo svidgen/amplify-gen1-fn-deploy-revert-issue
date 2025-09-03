@@ -14,6 +14,12 @@
     "categories": {
       "api": {
         "amplifygen1cfnissues": {}
+      },
+      "function": {
+        "amplifygen1cfnissues13d6750e": {
+          "deploymentBucketName": "amplify-amplifygen1cfnissues-dev-46c52-deployment",
+          "s3Key": "amplify-builds/amplifygen1cfnissues13d6750e-754d76504f42536f3144-build.zip"
+        }
       }
     }
   }
