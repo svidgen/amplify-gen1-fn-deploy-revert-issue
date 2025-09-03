@@ -12,4 +12,5 @@ type Widgets @model {
   id: ID!
   name: String!
   description: String
+  todos: [Todo] @hasMany
 }
