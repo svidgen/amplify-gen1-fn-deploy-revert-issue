@@ -39,8 +39,11 @@
       "function": {
         "amplifygen1cfnissues13d6750e": {
           "deploymentBucketName": "amplify-amplifygen1cfnissues-dev-46c52-deployment",
-          "s3Key": "amplify-builds/amplifygen1cfnissues13d6750e-754d76504f42536f3144-build.zip"
+          "s3Key": "amplify-builds/amplifygen1cfnissues13d6750e-74674a4d336747675939-build.zip"
         }
+      },
+      "auth": {
+        "amplifygen1cfnissues4115acd6": {}
       }
     }
   }
